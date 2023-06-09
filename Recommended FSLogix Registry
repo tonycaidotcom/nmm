@@ -1,0 +1,8 @@
+"DeleteLocalProfileWhenVHDShouldApply"=dword:1
+"PreventLoginWithFailure"=dword:1
+"PreventLoginWithTempProfile"=dword:1
+"VolumeType"=string:"vhdx"
+"FlipFlopProfileDirectoryName"=dword:1
+"AccessNetworkAsComputerObject"=dword:1
+"SizeinMBs"=dword:30000
+"IsDynamic"=dword:1
